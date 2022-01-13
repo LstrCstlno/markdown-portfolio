@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. ordeered list 😏
+2.  1.lol 🍭
+* unordered list
+*    * hahaha 🐴
+   
